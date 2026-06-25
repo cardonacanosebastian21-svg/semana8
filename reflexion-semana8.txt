@@ -1,0 +1,9 @@
+La seguridad digital es un pilar fundamental para cualquier plataforma tecnológica comunitaria. 
+Cuando las comunidades participan en procesos digitales, suelen compartir información 
+valiosa y datos personales. Si esta información no se protege adecuadamente, se pone 
+en riesgo la integridad, privacidad y confianza de todos los participantes. 
+Una brecha de seguridad puede destruir la reputación de un proceso participativo y 
+desincentivar a la comunidad de seguir utilizando herramientas tecnológicas. 
+Por lo tanto, implementar medidas de seguridad no es solo un tema técnico, 
+es un compromiso ético para garantizar un entorno seguro, democrático y 
+confiable para el intercambio de ideas y la gestión de proyectos colectivos.
