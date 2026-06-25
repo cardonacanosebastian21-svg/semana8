@@ -1,0 +1,5 @@
+Comandos ejecutados:
+uname -a: Muestra información detallada del sistema, incluyendo el nombre del kernel, la versión y la arquitectura.
+whoami: Indica el nombre del usuario que está actualmente conectado a la terminal.
+
+Importancia: Conocer la información del sistema es vital en la administración de servidores porque permite verificar si el sistema está actualizado, identificar el entorno de ejecución para instalar dependencias compatibles y gestionar los permisos de acceso de forma correcta.
